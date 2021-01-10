@@ -17,6 +17,6 @@ Para crear tu propio árbol de competencias con la plantilla que he creado en Fi
 
 ## Agradecimientos 🎁
 
-Gracias a tod#s los compañeros del Bootcamp Full Stack de FactoriaF5, que de una manera u otra, me han ayudado en mi progreso.
+Gracias a tod#s los compañer#s del Bootcamp Full Stack de FactoriaF5, que de una manera u otra, me han ayudado en mi progreso.
 
 Con 💛 de Lorena C.
